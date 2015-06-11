@@ -2,7 +2,7 @@
   "name": "ASAPTools",
   "version": "1.0.0",
   "description": "The ASAP tools module",
-  "main": "js/src/asapdigital/regiondata/Main.js",
+  "main": "asapdigital.tools",
   "moduleType": [
     "amd"
   ],
