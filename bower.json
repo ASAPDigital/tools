@@ -1,6 +1,7 @@
 {
   "name": "ASAPTools",
   "version": "1.0.0",
+  "main": "asapdigital.tools.js",
   "description": "The ASAP tools module",
   "moduleType": [
     "amd"
