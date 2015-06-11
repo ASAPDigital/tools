@@ -1,8 +1,8 @@
 {
   "name": "ASAPTools",
   "version": "1.0.0",
-  "main": "asapdigital.tools.js",
   "description": "The ASAP tools module",
+//  "main": "js/src/asapdigital/regiondata/Main.js",
   "moduleType": [
     "amd"
   ],
@@ -23,8 +23,5 @@
   "license": "MIT",
   "homepage": "www.asapdigital.com",
   "dependencies": {
-    "jquery": "~2.1.4",
-    "requirejs": "~2.1.18",
-    "googleMapsLoaderUtil": "*"
   }
 }
